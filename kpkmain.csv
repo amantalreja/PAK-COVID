@@ -1,44 +1,44 @@
 ﻿district,case total,24 hrs,deaths,24 hr,recovered
-total,15935,1008,660,19,3849
-Peshawar,6179,328,340,5,554
-Charsadda,491,24,9,0,110
-Nowshera,502,44,26,4,162
-Khyber,392,13,6,0,78
-Mohmand,41,4,2,1,16
-Peshawar(Division),7605,413,383,10,920
-Mardan,747,43,37,1,324
-Swabi,269,15,13,0,110
-Mardan(Division),1016,58,50,1,434
-SWAT,1674,67,54,0,577
-Buner,291,15,8,0,154
-DIR LOWER,760,115,18,1,161
-DIR UPPER,407,19,5,0,164
-Shangla,229,0,2,0,128
-MalaKand,902,111,23,1,267
-Chitral Lower,79,8,0,0,42
-Chitral Upper,34,2,0,0,15
-Bajaur,394,18,22,0,150
-Malakand (Division),4767,355,132,2,1658
-Mansehra,228,28,9,0,126
-Abbottabad,636,30,31,0,136
-Haripur,297,10,6,0,73
+total,16496,561,674,14,4091
+Peshawar,6306,127,345,5,563
+Charsadda,499,8,9,0,118
+Nowshera,509,7,28,2,163
+Khyber,394,2,7,1,78
+Mohmand,41,0,2,0,16
+Peshawar(Division),7749,144,391,8,938
+Mardan,811,64,37,0,365
+Swabi,272,3,13,0,113
+Mardan(Division),1083,67,50,0,478
+SWAT,1702,31,54,0,667
+Buner,298,7,8,0,155
+DIR LOWER,809,49,18,0,168
+DIR UPPER,458,51,6,1,171
+Shangla,239,10,2,0,136
+MalaKand,935,33,25,2,274
+Chitral Lower,82,3,0,0,46
+Chitral Upper,35,1,0,0,15
+Bajaur,423,29,22,0,165
+Malakand (Division),4981,214,135,3,1797
+Mansehra,240,12,9,0,127
+Abbottabad,669,33,31,0,138
+Haripur,319,22,6,0,89
 Tor Ghar,2,0,0,0,2
 Kohistan Upper,1,0,0,0,1
-Kohistan Lower,4,0,0,0,0
+Kohistan Lower,4,0,0,0,2
 Kolai Pallas,4,0,0,0,0
-Battagram,189,4,11,1,79
-Hazara (Division),1361,76,57,1,417
-Kohat ,278,55,18,2,97
-Hangu,44,3,1,0,23
-Karak,189,10,5,0,50
-Kurram,220,1,4,0,42
-Orakzai,46,17,2,2,9
-Kohat (Division),777,86,30,5,221
-Bannu,106,12,2,0,67
-Lakki Marwat,23,5,1,0,12
+Battagram,192,3,12,1,83
+Hazara (Division),1431,70,58,1,442
+Kohat ,288,10,18,0,98
+Hangu,51,7,1,0,24
+Karak,213,24,6,1,58
+Kurram,226,6,4,0,42
+Orakzai,46,0,2,0,10
+Kohat (Division),824,47,31,1,232
+Bannu,106,0,2,0,67
+Lakki Marwat,24,1,1,0,12
 North Waziristan,8,0,0,0,6
-Bannu (Division),137,17,3,0,85
-Dera Ismail Khan ,210,3,5,0,101
-Tank,52,0,0,0,10
+Bannu (Division),138,1,3,0,85
+Dera Ismail Khan ,226,16,6,1,106
+Tank,54,2,0,0,10
 South Waziristan,10,0,0,0,3
-Dera Ismail Khan (Division),272,3,5,0,114
+Dera Ismail Khan (Division),290,18,6,1,119
