@@ -1,44 +1,44 @@
-﻿district,case total,24 hrs,deaths,24 hr,recovered
-total,18622,536,770,18,4908
-Peshawar,6908,180,380,5,671
-Charsadda,551,29,9,0,144
-Nowshera,555,7,28,0,223
-Khyber,447,13,9,0,105
-Mohmand,46,2,2,0,16
-Peshawar(Division),8507,231,428,5,1159
-Mardan,869,23,41,0,400
-Swabi,343,15,17,1,152
-Mardan(Division),1212,38,58,1,552
-SWAT,1947,76,75,3,788
-Buner,340,21,9,0,175
-DIR LOWER,902,20,20,1,198
-DIR UPPER,516,0,10,1,192
-Shangla,267,0,2,0,146
-MalaKand,1068,49,30,2,338
-Chitral Lower,88,0,1,0,47
-Chitral Upper,51,0,0,0,15
-Bajaur,445,1,23,1,195
-Malakand (Division),5624,167,170,8,2094
-Mansehra,283,1,9,0,132
-Abbottabad,826,22,36,0,167
-Haripur,357,6,7,1,129
-Tor Ghar,2,0,0,0,2
-Kohistan Upper,1,0,0,0,1
-Kohistan Lower,5,0,0,0,2
-Kolai Pallas,10,0,0,0,0
-Battagram,228,3,14,1,110
-Hazara (Division),1712,32,66,2,543
-Kohat ,404,14,22,0,112
-Hangu,75,7,2,0,30
-Karak,261,14,8,2,66
-Kurram,280,1,5,0,105
-Orakzai,59,1,2,0,11
-Kohat (Division),1079,37,39,2,324
-Bannu,108,0,3,0,67
-Lakki Marwat,45,20,1,0,15
-North Waziristan,8,0,0,0,6
-Bannu (Division),161,20,4,0,88
-Dera Ismail Khan ,262,11,7,0,126
-Tank,55,0,0,0,12
-South Waziristan,10,0,0,0,10
-Dera Ismail Khan (Division),327,11,7,0,148
+﻿district,case t0tal,24 hrs,deaths,24 hr,rec0vered
+t0tal,23711,355,921,8,11431
+Peshawar,8923,96,445,5,4705
+Charsadda,681,8,13,1,229
+N0wshera,709,2,38,0,264
+Khyber,654,4,10,0,152
+M0hmand,65,3,2,0,23
+Peshawar(Divisi0n),11032,113,508,6,5373
+Mardan,1059,30,49,0,540
+Swabi,389,1,20,0,235
+Mardan(Divisi0n),1448,31,69,0,775
+SWAT,2473,21,91,0,1259
+Buner,383,5,11,1,222
+DIR L0WER,1177,61,23,0,344
+DIR UPPER,624,23,13,0,254
+Shangla,373,15,3,0,223
+MalaKand,1264,12,34,0,515
+Chitral L0wer,134,3,1,0,62
+Chitral Upper,74,5,0,0,30
+Bajaur,500,8,30,0,359
+Malakand (Divisi0n),7002,153,206,1,3268
+Mansehra,356,4,10,0,184
+Abb0ttabad,1087,7,38,0,583
+Haripur,488,6,8,0,209
+T0r Ghar,3,0,0,0,2
+K0histan Upper,2,0,0,0,1
+K0histan L0wer,7,0,0,0,5
+K0lai Pallas,15,0,0,0,4
+Battagram,269,0,14,0,144
+Hazara (Divisi0n),2227,17,70,0,1132
+K0hat ,480,1,27,0,164
+Hangu,109,4,4,1,48
+Karak,337,14,11,0,85
+Kurram,329,3,6,0,170
+0rakzai,83,3,2,0,37
+K0hat (Divisi0n),1338,25,50,1,504
+Bannu,130,0,6,0,84
+Lakki Marwat,64,2,1,0,31
+N0rth Waziristan,14,6,0,0,6
+Bannu (Divisi0n),208,8,7,0,121
+Dera Ismail Khan ,363,4,11,0,202
+Tank,68,2,0,0,43
+S0uth Waziristan,25,2,0,0,13
+Dera Ismail Khan (Divisi0n),456,8,11,0,258
