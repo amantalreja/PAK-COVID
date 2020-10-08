@@ -1,3 +1,4 @@
-city/district,Violin,Tabla
-Karachi, PACC, PACC
-Daharki, Gurudwara, Guruduwara
+city/district,bMin,Violin,Tabla,
+Karachi,[0,2,3], PACC, PACC
+Daharki,[0,1], Gurudwara, Guruduwara
+
