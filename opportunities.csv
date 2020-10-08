@@ -1,4 +1,4 @@
 city/district,bnorm,bExtreme,Violin,Tabla
-Karachi,"[0,2]","[1,2]", PACC, PACC
-Daharki,"[0,1]","[1,2]", Gurudwara, Guruduwara
+Karachi,[0+2],[1+2], PACC, PACC
+Daharki,[0+1],[1+2], Gurudwara, Guruduwara
 
